@@ -1,3 +1,9 @@
+<img width="407" height="858" alt="Screenshot 2026-05-19 043106" src="https://github.com/user-attachments/assets/3d4b74a7-3389-42c1-bef5-2c74d65704df" />
+
+<img width="479" height="921" alt="Screenshot 2026-05-19 042731" src="https://github.com/user-attachments/assets/dff9a2ce-0951-43d3-af03-b8fd9a27b048" />
+
+
+
 # Resep Dunia
 
 Resep Dunia adalah aplikasi Android sederhana yang menampilkan katalog makanan dessert dari API TheMealDB. Aplikasi ini dibuat menggunakan Java dan Android Studio.
@@ -28,12 +34,4 @@ Daftar dessert:
 
 ```text
 https://www.themealdb.com/api/json/v1/1/filter.php?c=Dessert
-
-## Screenshots
-
-<img width="530" height="918" alt="image" src="https://github.com/user-attachments/assets/ab3a3128-03e5-4251-96be-dc487e0c7ae4" />
-
-<img width="479" height="921" alt="image" src="https://github.com/user-attachments/assets/fcfbd88b-38ec-4a2d-8702-702ebbc00239" />
-
-
 
